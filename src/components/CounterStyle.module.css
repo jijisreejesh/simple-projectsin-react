@@ -1,0 +1,33 @@
+.header{
+    background-color: aquamarine;
+    border: 1px solid black;
+    width: 400px;
+    box-shadow: 1px 1px 0px 0px black;
+    height: 400px;
+}
+.heading{
+    text-align: center;
+    color: rgb(139, 63, 9);
+}
+label{
+   color: blue;
+    display: inline-block;
+    width: 40px;
+    height: 30px;
+    font-size: 50px;
+    padding-left: 180px;
+    padding-top: 30px;
+}
+button{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    font-size: 40px;
+    background-color: rgb(33, 166, 124);
+    margin-left: 95px;
+    margin-top: 30px;
+    border-radius: 50%;
+}
+button:active{
+    background-color: rgb(178, 18, 66);
+}
